@@ -59,4 +59,5 @@ This project is a **serverless email marketing system** built using AWS services
 
 ---
 
-> [!IMPORTANT]  ⚠️ Remember to delete unused AWS resources to avoid unnecessary charges!
+> [!IMPORTANT]
+> ⚠️ Remember to delete unused AWS resources to avoid unnecessary charges!
