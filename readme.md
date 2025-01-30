@@ -1,6 +1,6 @@
 # AWS-Serverless-Email-Marketing
 
-This project is a **serverless email marketing system** built using AWS services. It enables automated email campaigns using **Amazon S3, SES, Lambda, and EventBridge**.
+Is a **serverless email marketing system** built using AWS services. It enables automated email campaigns using **Amazon S3, SES, Lambda, and EventBridge**.
 
 ## 🚀 Features
 
