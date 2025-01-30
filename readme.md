@@ -49,10 +49,6 @@ This project is a **serverless email marketing system** built using AWS services
 - **Validate Lambda** permissions for S3 and SES.
 - **Monitor logs** using AWS CloudWatch.
 
-## 🚀 Deployment
-- Use AWS SAM or Terraform for IaC (optional).
-- Secure IAM roles to restrict access.
-
 ## Example: 
 
 ![email](assets/email.png)
