@@ -55,8 +55,8 @@ This project is a **serverless email marketing system** built using AWS services
 
 ## Example: 
 
-[!email](assets/email.png)
+![email](assets/email.png)
 
 ---
 
-> [!IMPORTANT]  ⚠️ **Important:** Remember to delete unused AWS resources to avoid unnecessary charges!
+> [!IMPORTANT]  ⚠️ Remember to delete unused AWS resources to avoid unnecessary charges!
